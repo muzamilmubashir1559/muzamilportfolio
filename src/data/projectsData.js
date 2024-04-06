@@ -10,7 +10,7 @@ import eight from "../assets/svg/projects/eight.svg";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Resturants Management",
+    projectName: "Restaurants Management",
     projectDesc:
       "To revolutionize the order management process within restaurants, offering seamless communication and efficiency from the moment an order is placed to its fulfillment.",
     tags: ["React Native"],
