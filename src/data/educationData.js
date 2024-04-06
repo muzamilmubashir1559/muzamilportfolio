@@ -8,7 +8,7 @@ export const educationData = [
   },
   {
     id: 2,
-    institution: "Pubjab Group Of Colleges Lahore, Pakistan",
+    institution: "Punjab Group Of Colleges Lahore, Pakistan",
     course: "Higher Secondary Education",
     startYear: "2010",
     endYear: "2012",
