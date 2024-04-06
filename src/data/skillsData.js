@@ -1,7 +1,7 @@
 export const skillsData = [
   "React Native",
-  "IOS Applications",
-  "Android Applications",
+  "iOS",
+  "Android",
   "Hybrid Applications",
   "Javascript",
   "TypeScript",
