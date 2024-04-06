@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/muzamilportfolio/static/css/main.619ed845.chunk.css",
-    "main.js": "/muzamilportfolio/static/js/main.4ca16849.chunk.js",
-    "main.js.map": "/muzamilportfolio/static/js/main.4ca16849.chunk.js.map",
+    "main.js": "/muzamilportfolio/static/js/main.acebcabb.chunk.js",
+    "main.js.map": "/muzamilportfolio/static/js/main.acebcabb.chunk.js.map",
     "runtime-main.js": "/muzamilportfolio/static/js/runtime-main.d245be5f.js",
     "runtime-main.js.map": "/muzamilportfolio/static/js/runtime-main.d245be5f.js.map",
     "static/css/2.0e9113ea.chunk.css": "/muzamilportfolio/static/css/2.0e9113ea.chunk.css",
@@ -158,6 +158,6 @@
     "static/css/2.0e9113ea.chunk.css",
     "static/js/2.db4d1f10.chunk.js",
     "static/css/main.619ed845.chunk.css",
-    "static/js/main.4ca16849.chunk.js"
+    "static/js/main.acebcabb.chunk.js"
   ]
 }
