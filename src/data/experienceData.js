@@ -11,7 +11,7 @@ export const experienceData = [
     company: "TEBCOM",
     jobtitle: "Senior React Native Developer ",
     startYear: "2016",
-    endYear: "2029",
+    endYear: "2019",
   },
   {
     id: 3,
